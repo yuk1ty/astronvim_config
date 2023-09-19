@@ -8,8 +8,8 @@ return {
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = true, -- sets vim.opt.wrap
     ambiwidth = "single", -- sets vim.opt.ambiwidth to single
-    winblend = 20, -- window transparency
-    pumblend = 20, -- popup menu transparency
+    winblend = 0, -- window transparency
+    pumblend = 0, -- popup menu transparency
     termguicolors = true, -- enable 24-bit RGB colors
   },
   g = {
