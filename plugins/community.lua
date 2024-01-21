@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
