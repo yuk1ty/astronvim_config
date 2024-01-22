@@ -5,10 +5,15 @@ return {
     opts = {},
     event = "User AstroFile",
   },
+  -- {
+  --   "yioneko/nvim-yati",
+  --   dependencies = { "nvim-treesitter/nvim-treesitter" },
+  --   opts = {},
+  --   event = "User AstroFile",
+  -- }
   {
-    "yioneko/nvim-yati",
-    dependencies = { "nvim-treesitter/nvim-treesitter" },
+    "kwkarlwang/bufresize.nvim",
     opts = {},
-    event = "User AstroFile",
-  }
+    lazy = false,
+  },
 }
