@@ -58,5 +58,6 @@ return {
     opts = {
       -- options
     },
+    event = "User AstroFile"
   },
 }
