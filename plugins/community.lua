@@ -18,7 +18,6 @@ return {
   { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.proto" },
-  -- { import = "astrocommunity.pack.scala" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
