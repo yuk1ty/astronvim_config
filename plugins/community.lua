@@ -14,8 +14,6 @@ return {
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.pack.java" },
-  { import = "astrocommunity.pack.kotlin" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.proto" },
   { import = "astrocommunity.pack.terraform" },
